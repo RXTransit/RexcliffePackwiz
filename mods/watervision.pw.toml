@@ -1,0 +1,16 @@
+filename = 'watervision-FB-mc1.20.1-v0.1.0-alpha.jar'
+name = 'WATERViSION: VideoPlayer'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd6cf95a53d863aeb7bdeaccf79c2b43369ddd6396a563c21e655adda68b33c00ad9407d57cc1244f91e2a39c7b4e488feb59dbcd00dfd9659e06b016573092e7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dGGbEGoV/versions/BclZMXef/watervision-FB-mc1.20.1-v0.1.0-alpha.jar'
+
+[update.modrinth]
+mod-id = 'dGGbEGoV'
+version = 'BclZMXef'

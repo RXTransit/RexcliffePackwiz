@@ -1,0 +1,16 @@
+filename = 'everycomp-1.20-2.9.12-fabric.jar'
+name = 'Every Compat'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '24edb34858ae9a4e90cf43f028d31e954ff1011b79c9643c375412bf2d579c70a9617252f486dfd580f19c2cd5babbcd88abaaedaf67db2d9c48a80298e6e293'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eiktJyw1/versions/aUZ3gVKy/everycomp-1.20-2.9.12-fabric.jar'
+
+[update.modrinth]
+mod-id = 'eiktJyw1'
+version = 'aUZ3gVKy'

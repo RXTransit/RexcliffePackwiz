@@ -1,0 +1,16 @@
+filename = 'redstonepen-1.20.1-fabric-1.5.31.jar'
+name = 'Redstone Pen'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0e1d73ac4fb8e5e9b165305a18d7b1c11a6f49b8fba591285715a1497163aba626e55954dc8fc374d2f1dc38df8954fa3d0df1240f6592489dabedc4ace065b0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DwE83ioX/versions/VaQ60bvD/redstonepen-1.20.1-fabric-1.5.31.jar'
+
+[update.modrinth]
+mod-id = 'DwE83ioX'
+version = 'VaQ60bvD'

@@ -1,0 +1,16 @@
+filename = 'WorldEditCUI-1.20+01.jar'
+name = 'WorldEdit CUI (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4fd64cabffe5c2160a175101ed8474faf969e6a6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4575022
+project-id = 402098

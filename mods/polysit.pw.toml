@@ -1,0 +1,16 @@
+filename = 'polysit-0.9.1+mc.1.20.1.jar'
+name = 'Polysit'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.3', '1.19.4', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b9392c9fb27c1ad67f9229b452016a57ef616730941a389bba4cad705707799504c704217aba3600bb089f9eae8fd7a902c8e7de8a80646ca5aaa14f21eea09e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G9eJHDO2/versions/Vwhj1iP1/polysit-0.9.1%2Bmc.1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'G9eJHDO2'
+version = 'Vwhj1iP1'

@@ -1,0 +1,16 @@
+filename = 'slideshow_pro-fabric-1.20.1-1.1.0.jar'
+name = 'Slide Show Pro'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f9fb8d8933aa46d32ebb5cd3bdc121ee0022c8392ec72a115f1af32bd79a1a8d02a71c8b2f4c28b419f16e248c6c3683b521d7443cacad77c973968cb616c9c2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P6nYxysS/versions/ddE6Y91D/slideshow_pro-fabric-1.20.1-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'P6nYxysS'
+version = 'ddE6Y91D'

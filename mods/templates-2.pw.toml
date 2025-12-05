@@ -1,0 +1,16 @@
+filename = 'templates-mod-2.3.2+1.20.1.jar'
+name = 'Templates 2'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bd13bdbcb4c72f92b7b694df35d072883c83b297bebaceb7091c760706ecbb44044efb0665768e6641ac0a80ceedee7ab80ce1a76118b2c51b662185fc3fa64e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cL15qXuP/versions/9RWFAKhB/templates-mod-2.3.2%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'cL15qXuP'
+version = '9RWFAKhB'

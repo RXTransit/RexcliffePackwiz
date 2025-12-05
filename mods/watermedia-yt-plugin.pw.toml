@@ -1,0 +1,16 @@
+filename = 'watermedia_youtube_plugin-2.1.0.jar'
+name = 'WATERMeDIA: Youtube Plugin'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19.2', '1.20.1', '1.21.1', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c575c7159d8dadcf8d7a2668d0c7ced7eaffff27'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7282155
+project-id = 1395870

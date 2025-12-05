@@ -1,0 +1,16 @@
+filename = 'deimos-1.20.1-fabric-2.5.jar'
+name = 'Deimos'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c843dcfb6b47600173d72e23f9d17a1690805af8070e6d53469a7b3a2b26f6750f3f415bd95de20bbc2ad348f778dba309d59e29d3710185fb517c033e64941d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WQaxNzFg/versions/U2deza7C/deimos-1.20.1-fabric-2.5.jar'
+
+[update.modrinth]
+mod-id = 'WQaxNzFg'
+version = 'U2deza7C'

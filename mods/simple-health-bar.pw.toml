@@ -1,0 +1,16 @@
+filename = 'Simple Health Bar v1.0.2 [Fabric 1.20.1].jar'
+name = 'Simple Health Bar'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5347452ce1f6e51f31cd1bc9a3c5a36d1abc572bc15e3ed452aeaa08bb9f2f397d667b4a993876e21c3d1a89533e47c9888505373846ab5abee80e5d3f3e6e11'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mUkrhMZ1/versions/79HvqiDo/Simple Health Bar v1.0.2 %5BFabric 1.20.1%5D.jar'
+
+[update.modrinth]
+mod-id = 'mUkrhMZ1'
+version = '79HvqiDo'

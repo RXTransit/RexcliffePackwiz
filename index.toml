@@ -3178,16 +3178,8 @@ file = "resourcepacks/TCBusLanes.zip"
 hash = "3c6bc4fe67a5e43876c93187a8adeac795e5fe8d70d8cf1c08d1dec4347dde30"
 
 [[files]]
-file = "resourcepacks/TransperthAandBV4.zip"
-hash = "fc2a324d269475ca0c92ec2fac13219d0ac2dc27512edc5cadc4a8bf0ee117c3"
-
-[[files]]
 file = "resourcepacks/TransperthLogo4MTR.zip"
 hash = "b659d1d480e433147c9c39389924954a667f3772fc13cee134c2d3e7036a6b5a"
-
-[[files]]
-file = "resourcepacks/TransperthVolvo.zip"
-hash = "84ae8ff2ffeb9b20c32245c7168871f907f7c351ffb58cca2cc34f4d30a350a2"
 
 [[files]]
 file = "resourcepacks/VDL_English.zip"
@@ -3200,6 +3192,16 @@ hash = "c23520299965ea3c4cd4075927aaac0ad16a08f75bcea9aa9178108ad0903fd1"
 [[files]]
 file = "resourcepacks/mtr_srtAustralian_narrow_4.0_250421.zip"
 hash = "e3e49db2b2289181a24073187c03feb807177f9797907dd4150a87144881e1b2"
+
+[[files]]
+file = "resourcepacks/transperthtrains.pw.toml"
+hash = "dd30fbc8a744352c5afb2e80b6f98ebd97ed416c1e8f76a8bae86c93ef8fec6b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/transperthvolvo.pw.toml"
+hash = "178adff2a87740901d41f0861f5171bfc1c63a682734a7ba16f8fc5a50eb6fef"
+metafile = true
 
 [[files]]
 file = "resourcepacks/windowlesslift.zip"

@@ -1,0 +1,6 @@
+#Exclude .git
+.git\
+#Exclude .gitattributes
+.gitattributes
+#Exclude .gitignore
+.gitignore
